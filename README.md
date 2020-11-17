@@ -1,6 +1,8 @@
 # APS-EstruturaDeDados-2020-2
 Este é o programa desenvolvido para o trabalho da APS (Atividade Prática Supervisionada) do curso de Ciência da Computação, 3° Semestre, UNIP Brasília, segundo semestre de 2020.
 
+O projeto todo foi feito na IDE Eclipse 4.17.
+
 O Programa foi totalmente desenvolvido por mim (Pedro Henrique Neiva Nunes), com o intuito de gerar dados em formato de inteiro com base em uma imagem selecionada pelo usuário para que assim possa ser feito a ordenação de tais dados usando 3 algoritmos de ordenação, e por fim, comparar a performace de cada algoritmo.
 
 O objetivo do trabalho foi a comparação dentre 3 algoritmos de ordenação usando listas de números inteiros. Para isso, foi sugerido a criação de um sistema de "calculo de nível de desmatamento", onde seriam atribuídos níveis de desmatamento para cada imagem selecionada pelo usuário, após o calculo, os níveis de desmatamento seriam ordenados e comparados.
